@@ -1,6 +1,7 @@
 # Introduction
 
-Plant Pathology Group Discussion of Machine Learning \
+Plant Pathology \
+Group Discussion of Machine Learning \
 Organizers: [Garret Lab](https://www.garrettlab.com/) \
 **University of Florida**
 
