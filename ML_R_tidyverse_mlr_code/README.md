@@ -1,7 +1,7 @@
 # Introduction
 
-Plant Pathology Group Discussion of Machine Learning 
-Organizers: [Garret Lab](https://www.garrettlab.com/)
+Plant Pathology Group Discussion of Machine Learning \
+Organizers: [Garret Lab](https://www.garrettlab.com/) \
 **University of Florida**
 
 [Chapter 1](https://github.com/ricardoi/machine_learning_ld/blob/main/ML_R_tidyverse_mlr_code/CH01_INTRO.R)
